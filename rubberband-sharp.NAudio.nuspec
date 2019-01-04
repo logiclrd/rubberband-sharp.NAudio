@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>rubberband-sharp.NAudio</id>
+    <version>1.0.0</version>
+    <description>An NAudio IWaveProvider that passes another IWaveProvider's stream through the Rubber Band Library.</description>
+    <authors>JonathanG@iQmetrix.com</authors>
+    <projectUrl>https://github.com/logiclrd/rubberband-sharp.NAudio</projectUrl>
+    <license type="expression">GPL-2.0-or-later</license>
+  </metadata>
+</package>
